@@ -5,11 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2decd717-e818-4f92-9bf6-7359b19e947a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/base/PageBase.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/page/FirstPage.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/InitiateTest.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/TestBase.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/base/TestBase.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/page/FirstPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/page/FirstPage.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/InitiateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/InitiateTest.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +39,7 @@
   "keyToString": {
     "RunOnceActivity.OpenProjectViewOnStart": "true",
     "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Dusko-PC/IdeaProjects/iFrameTestProjcet/src/test/resources/drivers",
+    "last_opened_file_path": "C:/Users/Dusko-PC/IdeaProjects/iFrameTestProjcet",
     "project.structure.last.edited": "Project",
     "project.structure.proportion": "0.0",
     "project.structure.side.proportion": "0.0"
@@ -53,7 +51,61 @@
       <recent name="C:\Users\Dusko-PC\IdeaProjects\iFrameTestProjcet\src\test" />
     </key>
   </component>
-  <component name="RunManager">
+  <component name="RunManager" selected="TestNG.InitiateTest.count_iFrames_test">
+    <configuration name="InitiateTest.count_iFrames_test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iFrameTestProjcet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.InitiateTest" />
+      <option name="METHOD_NAME" value="count_iFrames_test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitiateTest.id_iFrame_test2" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iFrameTestProjcet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.InitiateTest" />
+      <option name="METHOD_NAME" value="id_iFrame_test2" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <configuration name="InitiateTest.index_iFrame_test1" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iFrameTestProjcet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.InitiateTest" />
+      <option name="METHOD_NAME" value="index_iFrame_test1" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <configuration name="InitiateTest.initiate_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="iFrameTestProjcet" />
       <extension name="coverage">
@@ -74,6 +126,9 @@
     </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.InitiateTest.count_iFrames_test" />
+        <item itemvalue="TestNG.InitiateTest.id_iFrame_test2" />
+        <item itemvalue="TestNG.InitiateTest.index_iFrame_test1" />
         <item itemvalue="TestNG.InitiateTest.initiate_test" />
       </list>
     </recent_temporary>
