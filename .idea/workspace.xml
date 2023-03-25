@@ -5,9 +5,13 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2decd717-e818-4f92-9bf6-7359b19e947a" name="Changes" comment="">
+      <change afterPath="$PROJECT_DIR$/src/test/java/page/MainGame.java" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/src/test/java/test/TestGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/page/FirstPage.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/page/FirstPage.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/InitiateTest.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/InitiateTest.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/base/PageBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/base/TestBase.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/page/FirstPage.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/InitiateTest.java" beforeDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -35,23 +39,23 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent"><![CDATA[{
-  "keyToString": {
-    "RunOnceActivity.OpenProjectViewOnStart": "true",
-    "RunOnceActivity.ShowReadmeOnStart": "true",
-    "last_opened_file_path": "C:/Users/Dusko-PC/IdeaProjects/iFrameTestProjcet",
-    "project.structure.last.edited": "Project",
-    "project.structure.proportion": "0.0",
-    "project.structure.side.proportion": "0.0"
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dusko-PC/IdeaProjects/iFrameTestProjcet&quot;,
+    &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
+    &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
+    &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;
   }
-}]]></component>
+}</component>
   <component name="RecentsManager">
     <key name="CopyFile.RECENT_KEYS">
       <recent name="C:\Users\Dusko-PC\IdeaProjects\iFrameTestProjcet\src\test\resources\drivers" />
       <recent name="C:\Users\Dusko-PC\IdeaProjects\iFrameTestProjcet\src\test" />
     </key>
   </component>
-  <component name="RunManager" selected="TestNG.InitiateTest.count_iFrames_test">
+  <component name="RunManager" selected="TestNG.TestGame.test">
     <configuration name="InitiateTest.count_iFrames_test" type="TestNG" temporary="true" nameIsGenerated="true">
       <module name="iFrameTestProjcet" />
       <extension name="coverage">
@@ -124,8 +128,27 @@
         <option name="Make" enabled="true" />
       </method>
     </configuration>
+    <configuration name="TestGame.test" type="TestNG" temporary="true" nameIsGenerated="true">
+      <module name="iFrameTestProjcet" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="test.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <option name="PACKAGE_NAME" value="test" />
+      <option name="MAIN_CLASS_NAME" value="test.TestGame" />
+      <option name="METHOD_NAME" value="test" />
+      <option name="TEST_OBJECT" value="METHOD" />
+      <properties />
+      <listeners />
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
     <recent_temporary>
       <list>
+        <item itemvalue="TestNG.TestGame.test" />
         <item itemvalue="TestNG.InitiateTest.count_iFrames_test" />
         <item itemvalue="TestNG.InitiateTest.id_iFrame_test2" />
         <item itemvalue="TestNG.InitiateTest.index_iFrame_test1" />
