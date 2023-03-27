@@ -5,13 +5,9 @@
   </component>
   <component name="ChangeListManager">
     <list default="true" id="2decd717-e818-4f92-9bf6-7359b19e947a" name="Changes" comment="">
-      <change afterPath="$PROJECT_DIR$/src/test/java/page/MainGame.java" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/src/test/java/test/TestGame.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/PageBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/base/TestBase.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/page/FirstPage.java" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/test/java/test/InitiateTest.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/page/MainGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/page/MainGame.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/test/java/test/TestGame.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/test/java/test/TestGame.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -43,7 +39,7 @@
   &quot;keyToString&quot;: {
     &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
     &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dusko-PC/IdeaProjects/iFrameTestProjcet&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/Dusko-PC/IdeaProjects/PortfolioQA&quot;,
     &quot;project.structure.last.edited&quot;: &quot;Project&quot;,
     &quot;project.structure.proportion&quot;: &quot;0.0&quot;,
     &quot;project.structure.side.proportion&quot;: &quot;0.0&quot;

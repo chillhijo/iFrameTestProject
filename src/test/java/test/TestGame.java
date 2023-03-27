@@ -33,6 +33,7 @@ public class TestGame {
         mainGame.numberOfIFrame();
         mainGame.locateIFrame();
         mainGame.switchToFirstIFrame();
-        mainGame.locateTitleElement();
+        mainGame.checkIsThereTitleElement();
+        mainGame.getText();
     }
 }
